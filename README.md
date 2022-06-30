@@ -1,4 +1,4 @@
-# brainfuck_interpreter.rs
+# brainfuck-interpreter.rs
 It is a simple Brainfuck interpreter. If you want you can use or change.
 
 ## Example
